@@ -1,0 +1,35 @@
+
+           Document of functionality comparison of Drupal 8
+
+
+1.   Extra text near mute/unmute button on the intro page.
+
+2.    Point bar on top of video episode-1-game-start?episode=16 is coming early as compared to Drupal7 .
+
+3.   Περιστατικό No.01  is missing all videos on Points bar.
+
+4.  On clicking the pause button two buttons are not visible.
+
+5.  Open ePrivacy settings  are not  working.  
+
+6.   are-you-sure?episode=16   => click (Another time) button redirect Home page and play again intro but click (Another time) button redirect thank-you page in Drupal7 .
+
+7.  Points/score  is not completed.
+
+8.  question hint button not blinking on popup.
+
+9. In Drupal8 (treatment/16/15 ) 3 options but 5 options in Drupal7 .
+
+10. In Drupal8 (treatment/16/15 )  click (VKA) button different image as compared to Drupal7 .
+
+11. PDF link on see-you page is missing.
+
+12.  end-menu is not completed.
+
+13. Title change (episode/16/23) to (end-menu) as compared Drupal7 .
+
+14. PDF link on welcome page is missing.
+
+15. All page back redirecting but Drupal 7 it is not the same. 
+
+
